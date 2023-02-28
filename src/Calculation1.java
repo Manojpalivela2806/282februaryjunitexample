@@ -10,4 +10,9 @@ public class Calculation1 {
          k= i+j+5;
         return k;
     }
+    public static int Sub(int x ,int y)
+    {
+        int z= x-y;
+        return z;
+    }
 }
