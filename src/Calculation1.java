@@ -12,7 +12,7 @@ public class Calculation1 {
     }
     public static int Sub(int x ,int y)
     {
-        int z= x-y;
-        return z;
+        int a= x-y;
+        return a;
     }
 }
